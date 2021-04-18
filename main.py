@@ -115,7 +115,7 @@ web_input.grid(column=1, row=1)
 
 user_input = Entry(width=50)
 user_input.grid(column=1, row=2, columnspan=2)
-user_input.insert(0, 'nileshmadnani57@gmail.com')
+user_input.insert(0, 'email or username')
 
 pwd_input = Entry(width=32)
 pwd_input.grid(column=1, row=3)
